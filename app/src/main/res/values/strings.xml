@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenTestApp</string>
+    <string name="button_get_news">Get Last News</string>
+    <string name="tittle_date_news">Pub Date</string>
+    <string name="tittle_url_news">URL</string>
+    <string name="tittle_tittle_news">Tittle</string>
+</resources>
